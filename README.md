@@ -1,5 +1,7 @@
 # **🎯 Project: Sentiment Analysis Dashboard**
 
+# **Link 🔗** : https://sentiment-analysis-dashboard-2rzkdja4wc6barszydoqqy.streamlit.app/ 
+
 # **1. Overview**
 
 This project is an interactive NLP-powered dashboard built with Streamlit that performs sentiment analysis on a dataset of text reviews (e.g., movie reviews, tweets, or comments).
